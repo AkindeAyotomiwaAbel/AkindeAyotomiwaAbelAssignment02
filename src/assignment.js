@@ -22,7 +22,7 @@ function sumOfNumbers(arrayOfNumbers) {
 }
  assignment.sumOfNumbers = sumOfNumbers;
 /**
- * Challenge - 2
+ * Challenge - 2 
  * 
  * Count all even numbers within an array of numbers.
  * If you did Challenge - 2, remove the comment in the line just after this function
